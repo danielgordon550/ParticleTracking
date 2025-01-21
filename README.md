@@ -1,4 +1,4 @@
-These three codes are a quick, short and sweet method of performing particle tracking using the trackpy. 
+These codes are short and sweet methods of performing particle tracking using the trackpy. 
 
 To use these codes you will require the following extra python packages:
 - trackpy: the main particle tracking software
